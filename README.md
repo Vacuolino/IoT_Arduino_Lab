@@ -1,2 +1,2 @@
-# IoT_Arduino_Lab
-Repository for the IoT Laboratory
+#Risorse per Laboratorio sull'IoT
+Repository contentente le risorse per un Laboratorio sull'IoT con Arduino
