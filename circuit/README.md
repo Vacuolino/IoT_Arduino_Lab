@@ -1,4 +1,4 @@
-**This is the Schematics of the Circuit builded:**
+**This is the Schematics of the Circuit built:**
 
 ![Circuit](https://github.com/edovio/IoT_Arduino_Lab/blob/master/circuit/TemperatureMonitor.png "Circuit")
 
